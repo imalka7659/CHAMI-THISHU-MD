@@ -28,7 +28,7 @@ let des = `*👋 Hello ${pushname} I'm alive now*
 
 > ᴘᴏᴠᴇʀᴇᴅ ʙʏ ᴄʜᴀᴍɪᴋᴀ ᴍᴀɪɴ
 `
-return await conn.sendMessage(from,{image: {url: 'https://ibb.co/Dpf9yQ6'},caption: des},{quoted: mek})
+return await conn.sendMessage(from,{image: {url: 'https://8030.us.kg/file/fB0sEjZNvZMF.jpg'},caption: des},{quoted: mek})
 }catch(e){
 console.log(e)
 reply(`${e}`)
@@ -77,7 +77,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 > ᴘᴀᴡᴇʀᴇᴅ ʙʏ ᴄʜᴀᴍɪᴋᴀ ᴍᴀɪɴ`;
 
-        const vv = await conn.sendMessage(from, { image: { url: "https://ibb.co/Dpf9yQ6"}, caption: desc }, { quoted: mek });
+        const vv = await conn.sendMessage(from, { image: { url: "https://8030.us.kg/file/fB0sEjZNvZMF.jpg"}, caption: desc }, { quoted: mek });
 
         conn.ev.on('messages.upsert', async (msgUpdate) => {
             const msg = msgUpdate.messages[0];
@@ -332,7 +332,7 @@ let status =`
     
 > ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴᴇᴛʜᴍɪᴋᴀ ᴍᴀɪɴ
 `
-const imageUrl='https://iili.io/dbFAKoG.jpg';
+const imageUrl='https://8030.us.kg/file/fB0sEjZNvZMF.jpg';
     await conn.sendMessage(from,{image:{url:imageUrl},caption:status},{quoted:mek||null})}catch(e){console.log(e);reply(`Error: ${e}`);}});
 //=================== ping command =======================
 
@@ -413,7 +413,7 @@ let about = ` *👋 𝗛𝗘𝗟𝗟𝗢 𝗧𝗛𝗘𝗜𝗥 ${senderNumber}*
               
 > ᴘᴀᴡᴇʀᴇᴅ ʙʏ ᴄʜᴀᴍɪᴋᴀ ᴍᴀɪɴ`
 
-return await conn.sendMessage(from,{image: {url: `https://ibb.co/Dpf9yQ6`},caption:about},{quoted: mek})
+return await conn.sendMessage(from,{image: {url: `https://8030.us.kg/file/fB0sEjZNvZMF.jpg`},caption:about},{quoted: mek})
 
 }catch(e){
 
@@ -459,7 +459,7 @@ let about = ` *👋 Hello ${pushname}*
 
 > ᴘᴀᴡᴇʀᴇᴅ ʙʏ ᴄʜᴀᴍɪᴋᴀ ᴍᴀɪɴ`
 
-return await conn.sendMessage(from,{image: {url: `https://ibb.co/Dpf9yQ6`},caption:about},{quoted: mek})
+return await conn.sendMessage(from,{image: {url: `https://8030.us.kg/file/fB0sEjZNvZMF.jpg`},caption:about},{quoted: mek})
 
 }catch(e){
 
@@ -566,7 +566,7 @@ let madeMenu = `
 
 > ᴘᴀᴡᴇʀᴇᴅ ʙʏ ᴄʜᴀᴍɪᴋᴀ ᴍᴀɪɴ`
 
-return await conn.sendMessage(from,{image: {url: `https://ibb.co/Dpf9yQ6`},caption:madeMenu},{quoted: mek})
+return await conn.sendMessage(from,{image: {url: `https://8030.us.kg/file/fB0sEjZNvZMF.jpg`},caption:madeMenu},{quoted: mek})
 }catch(e){
 console.log(e)
 reply(`𝔼𝕣𝕣𝕣𝕠𝕣`)
