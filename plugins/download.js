@@ -1,4 +1,15 @@
-
+const {
+    getBuffer,
+    getGroupAdmins,
+    getRandom,
+    getsize,
+    h2k,
+    isUrl,
+    Json,
+    runtime,
+    sleep,
+    fetchJson
+} = require('../lib/functions')
 const {cmd , commands} = require('../command')
 const yts = require('yt-search');
 const fg = require('api-dylux');
