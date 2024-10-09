@@ -9,5 +9,5 @@ SESSION_ID: process.env.SESSION_ID || "",
 MONGODB: process.env.MONGODB || "mongodb+srv://kulathungaasitha319:yjHB0DvFfStNfwPS@cluster0.3oijd.mongodb.net/",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://iili.io/dbFAKoG.jpg",
 
-BOT_NUMBER: process.env.BOT_NUMBER || "94781320141",
+BOT_NUMBER: process.env.BOT_NUMBER || "94781320141"
 };
