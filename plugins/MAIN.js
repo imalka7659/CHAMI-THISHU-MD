@@ -293,7 +293,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 *💻 Github :* https://github.com/Thishu4/CHAMI&THISHU-MD
 
-> ᴘᴀᴡᴇʀᴇᴅ ʙʏ ᴄʜᴀᴍɪᴋᴀ
+> ᴘᴀᴡᴇʀᴇᴅ ʙʏ ᴄʜᴀᴍɪᴋᴀ ᴍᴀɪɴ`);
 
                         break;
                     default:
