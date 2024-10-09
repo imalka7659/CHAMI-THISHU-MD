@@ -31,18 +31,15 @@ const ownerNumber = ['94704227534']
 
 
 //===================SESSION-AUTH============================
-(!fs.existsSync(__dirname + '/session/creds.json')) {
-    if (config.SESSION_ID) {
-      const sessdata = config.SESSION_ID.replace("VAJIRA-MD=", "")
-      const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
-      filer.download((err, data) => {
-        if (err) throw err
-        fs.writeFile(__dirname + '/session/creds.json', data, () => {
-          console.log("Session download completed !!")
-        })
-      })
-    }
-  }
+if (!fs.existsSync(__dirname + '/session/creds.json')) {
+if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
+const sessdata = config.SESSION_ID
+const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
+filer.download((err, data) => {
+if(err) throw err
+fs.writeFile(__dirname + '/session/creds.json', data, () => {
+console.log("Session downloaded ✅")
+})})}
 
 
 
