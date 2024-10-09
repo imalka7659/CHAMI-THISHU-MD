@@ -41,7 +41,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 let autoreact = config.AUTO_REACT === 'true' ? '♻️ 𝙾𝙽' : '🚫 𝙾𝙵𝙵';
 
         const vv = await conn.sendMessage(from, {
-            image: { url: 'https://ibb.co/Dpf9yQ6' },
+            image: { url: 'https://8030.us.kg/file/fB0sEjZNvZMF.jpg' },
             caption: `❖ CHAMI&THISHU 𝐒𝐄𝐓𝐓𝐈𝐍𝐆 ❖\n
 ♻️ *මෙම පනිවිඩය  විනාඩි 5 කින් ස්වයංක්‍රීයව මකා දමයි*🚫
 ┏━━━━━━━━━━━━━━━━━━┓
