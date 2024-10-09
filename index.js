@@ -67,7 +67,7 @@ const prefix = config.PREFIX
 //=====≈=====≈
 
 
-console.log("Connecting Chami&thishu-Md...✅");
+console.log("Connecting 𝘕𝘌𝘛𝘏𝘜 𝘔𝘋 𝘉𝘖𝘛...✅");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/session/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -95,17 +95,17 @@ require("./plugins/" + plugin);
 }
 });
 console.log('Plugins installed successful ✅')
-console.log('Chami&thishu-Md connected to whatsapp ✅')
+console.log('𝘕𝘌𝘛𝘏𝘜 𝘔𝘋 𝘉𝘖𝘛 connected to whatsapp ✅')
 
-let up = `*Chami&thishu-Md 𝘊𝘖𝘕𝘕𝘌𝘊𝘛𝘌𝘋*
+let up = `*𝘕𝘌𝘛𝘏𝘜 𝘔𝘋 𝘉𝘖𝘛 𝘊𝘖𝘕𝘕𝘌𝘊𝘛𝘌𝘋*
 
 > _.Menu = Get Bot All Commands_ ⤵
 
 > _.Settings = Customize Bot Settings Work For Owner Only._❄️
 
-𝘉𝘖𝘛 𝘖𝘞𝘕𝘌𝘙 𝘉𝘠 𝘊𝘏𝘈𝘔𝘐𝘒𝘈 𝘔𝘈𝘐𝘕
+𝘉𝘖𝘛 𝘖𝘞𝘕𝘌𝘙 𝘉𝘠 𝘕𝘌𝘛𝘏𝘔𝘐𝘒𝘈 𝘔𝘈𝘐𝘕
 
-https://wa.me/94781320141`;
+https://wa.me/94704227534`;
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://iili.io/dbFAKoG.jpg` }, caption: up })
 
@@ -315,24 +315,7 @@ if (config.AUTO_REACT === 'true') {
   });
 }
        
-//========OwnerReact========            
-         
-if(senderNumber.includes("94781320141")){
-if(isReact) return
-m.react("🎈")
-}       
- 
 
-//=====Auto-Read-Cmd==========
-if (isCmd && config.AUTO_READ_CMD === "true") {
-              await conn.readMessages([mek.key])  // Mark command as read
-}
-//Auto Typing
-if(config.AUTO_TYPING === 'true'){await conn.sendPresenceUpdate('composing', from);}
-        
-//Auto-StatusDL============== 
-        
-//=====================✓
 //============================================================================ 
 
 
@@ -495,25 +478,9 @@ events.commands.map(async (command) => {
 })
 }
 app.get("/", (req, res) => {
-res.send("Chami&thishu 𝘔𝘋 𝘉𝘖𝘛 started✅");
+res.send("𝘋𝘈𝘙𝘒 𝘕𝘌𝘛𝘏𝘜 𝘔𝘋 𝘉𝘖𝘛 started✅");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
 connectToWA()
 }, 4000); 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
