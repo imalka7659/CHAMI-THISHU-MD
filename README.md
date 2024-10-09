@@ -39,7 +39,7 @@
 
 ### DEPLOY HEROKU
 
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nethu-cloud/NETHU-MD-V2)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TechnicalCybers/CHAMI-THISHU-MD)
 
  
  ### Deploy yml code,
