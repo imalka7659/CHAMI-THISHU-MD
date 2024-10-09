@@ -1,16 +1,16 @@
 ```NETHU-MD WHATSAPP USER BOT CREATED BY MR NETHMIKA OFC```
 
 <div align="center">
-    <b>NETHU-MD USER BOT</b>
+    <b>CHAMI&THISHU-MD USER BOT</b>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=NETHU+MD;CREATED+BY+NETHU_MIND;Nethmika" alt="Typing SVG" /></a>   
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=CHAMI&THISHU+MD;CREATED+BY+CHAMI&THISHU;ᴄʜᴀᴍɪᴋᴀ" alt="Typing SVG" /></a>   
 </p> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center">
-<a href="https://github.com/nethu-main">
+<a href="https://github.com/Thishu4">
     <img src="https://imgtr.ee/images/2024/09/17/37f9be869d1404ef1a5d188178450537.jpeg" width="700px">
   </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
